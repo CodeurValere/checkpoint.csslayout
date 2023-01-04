@@ -1,0 +1,91 @@
+.flex{
+    list-style: none;
+    display: inline;
+    background-color: blue;
+    text-align: justify;
+inline-size: 100%;
+display: inline-block;
+
+}
+.box1{
+    background-color: purple;
+    display: inline;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    text-align: center;
+    color: purple;
+    margin-bottom: 5px;
+    font: 100;
+    font-size: 150%;
+
+}
+.past2{
+    background-color: blueviolet;
+    display: inline-block;
+    font-size: 20%;
+}
+.box3{
+    grid: 40%;
+    text-align: center;
+    background-color: aqua;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.box4{
+align-items: center;
+background-color: red;
+text-align: center;
+margin-right: 100px;
+margin-left: 100px;
+margin-top: 90px;
+margin-bottom: 60px;
+font-size: 150%;
+}
+.box5{
+    text-align: center;
+    border-radius: 2px;
+    border-color: purple;
+}
+.box6{
+    text-align: center;
+    background-color: yellowgreen;
+    font-size: 130%;
+margin-top: 5%;
+padding-left: 100px;
+padding-top: 5px;
+padding-bottom: 10px;
+color: blue;
+}
+.pav1{
+text-align: center;
+font-size: 200%;
+background-color: red;
+padding-left: 20%;
+padding-right: 20%;
+}
+.pav2{
+text-align: center;
+}
+.pav3{
+    align-items: center;
+    background-color: aquamarine;
+    font-size: 150%;
+    padding-top: 3%;
+    padding-right: 20%;
+    margin-top: 3%;
+    margin-right: 30%;
+}
+.alin1{
+align-items: center;
+color: blue;
+display: inline;
+background-color: green;
+padding-top: 5%;
+margin-top: 3%;
+font-size: 150%;
+
+}
