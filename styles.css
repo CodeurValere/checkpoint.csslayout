@@ -4,8 +4,12 @@
     background-color: blue;
     text-align: justify;
 inline-size: 100%;
-display: inline-block;
 
+}
+
+
+.ul{
+flex-direction: row-reverse;
 }
 .box1{
     background-color: purple;
